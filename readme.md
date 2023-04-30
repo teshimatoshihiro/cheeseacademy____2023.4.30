@@ -2,7 +2,7 @@
 
 ## DEMO
 
-  - デプロイしている場合はURLを記入（任意）
+  https://github.com/teshimatoshihiro/cheeseacademy____2023.4.30/blob/main/readme.md
 
 ## 紹介と使い方
 
